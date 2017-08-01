@@ -1,2 +1,2 @@
 # josemar-conversion
-SDSC Summer Institute Training 
+git class at the Summer Institute
