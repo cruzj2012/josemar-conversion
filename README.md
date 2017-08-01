@@ -1,2 +1,2 @@
 # josemar-conversion
-git class at the Summer Institute
+- git class at the Summer Institute
